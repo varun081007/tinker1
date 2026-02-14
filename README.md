@@ -8,7 +8,6 @@
 
 ### Team Members
 * **Member 1:** Varun S Kumar
-* **Member 2:** [Name / GitHub Link]
 
 ---
 
